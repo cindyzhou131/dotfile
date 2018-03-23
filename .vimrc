@@ -52,4 +52,3 @@ let g:syntastic_cpp_compiler = 'clang++'
 let g:syntastic_cpp_compiler_options = ' -std=c++11 -stdlib=libc++'
 let c_no_curly_error=1
 set title
-(:cindy$ (
